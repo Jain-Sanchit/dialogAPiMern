@@ -1,0 +1,5 @@
+/node_modules
+*.json
+/credentials.json
+/credentials2.json
+/configd/keys.js
